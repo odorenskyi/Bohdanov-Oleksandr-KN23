@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1716294333 source:c:\users\kobza\onedrive\Рабочий стол\modulesbogdanov\main.cpp
+	"ModulesBogdanov.h"
+	<fstream>
+	<iostream>
+
+1716294316 c:\users\kobza\onedrive\Рабочий стол\modulesbogdanov\modulesbogdanov.h
+	<string>
+	<unordered_map>
+
+1716294872 source:c:\users\админ\desktop\modulesbogdanov\modulesbogdanov\main.cpp
+	"ModulesBogdanov.h"
+	<fstream>
+	<iostream>
+
+1716294848 c:\users\админ\desktop\modulesbogdanov\modulesbogdanov\modulesbogdanov.h
+	<string>
+	<unordered_map>
+

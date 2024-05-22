@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1716354861 source:c:\¡Ã“œ\chaban-sofiia-ki23\lab11\prj\modulesbogdanov\main.cpp
+	"ModulesBogdanov.h"
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+
